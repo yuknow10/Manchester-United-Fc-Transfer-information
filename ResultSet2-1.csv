@@ -1,0 +1,8 @@
+﻿ID,PLAYER_NUMBER,FIRST_NAME,LAST_NAME,POSITION,PREVIOUS_CLUB,TRANSFER_IN_SUM,CURRENT_TRANSFER_VALUE
+1,1,David     ,Degea          ,GK             ,Sevilla             ,$30 Mill,25000000
+2,6,Lisandro  ,Martinez       ,Defender       ,Ajax                ,$55 Mill,60000000
+3,19,Rapheal   ,varane         ,Defender       ,Real_Madrid         ,$50 Mill,100000000
+4,8,Bruno     ,Fernandez      ,Midfielder     ,Sporting            ,$85 Mill,70000000
+5,14,Christian ,Erickson       ,Midfielder     ,Tottenham           ,$0,30000000
+6,7,Cristiano ,Ronaldo        ,Forward        ,Juventus            ,$0,25000000
+7,10,Marcus    ,Rashford       ,Forward        ,Academy_Player      ,$0,85000000
